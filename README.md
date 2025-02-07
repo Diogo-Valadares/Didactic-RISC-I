@@ -1,7 +1,7 @@
 # Didactic-RISC-I
 This project is part of a monography focused on transforming the RISC I architecture into a didactic tool.
 
-![riscInternal](https://github.com/user-attachments/assets/4eea920d-c49b-4046-a99b-ded1ad917bcd)
+![riscInternal](https://github.com/user-attachments/assets/5e4920f9-e34a-4daf-9f75-84d9e71b543a)
 
 ## Overview
 This project focus on recriating the RISC I architecture to later improve it for didatic porpuses. Both the original RISC I recriation and DRISC archtectures will be contained in this repository for comparison.
